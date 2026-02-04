@@ -1,2 +1,1 @@
-# intellij-idea-demos
-IntelliJ IDEA Demo Applications
+# IntelliJ IDEA Demo Applications
